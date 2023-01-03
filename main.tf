@@ -17,7 +17,7 @@ provider "azurerm" {
   }
 }
 
-resource "azurerm_resource_group" "mkk7" {
+resource "azurerm_resource_group" "mkk2" {
     name = var.RGName
     location = var.location
   
